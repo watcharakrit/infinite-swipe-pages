@@ -1,2 +1,2 @@
-# ui-router-swipe
-javascript to init to use angular-ui/ui-router &amp; swipeview together.
+# infinite-swipe-pages
+mobile ui framework for infinite loop pages and data-binding menus infinite loop.
